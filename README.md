@@ -17,7 +17,7 @@ A custom game controller PCB designed in KiCad 10.
 - Custom Footprints
 
 ## 📷 Preview
-(Add PCB screenshots here)
-
+![PCB Preview](PCB.png)
+![PCB Preview](Cuircit-Diagram.png)
 ## 🚀 Designed By
 TSAR INDUSTRY
