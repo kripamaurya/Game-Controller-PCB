@@ -18,6 +18,6 @@ A custom game controller PCB designed in KiCad 10.
 
 ## 📷 Preview
 ![PCB Preview](PCB.png)
-![PCB Preview](Circuit Diagram.png)
+![PCB Preview](Circuit-Diagram.png)
 ## 🚀 Designed By
 TSAR INDUSTRY
